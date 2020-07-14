@@ -132,7 +132,8 @@ def station_stats(df):
     max_freq = df_count["Count"].max()
     df_count = df_count[df_count["Count"] == max_freq]
     print(df_count)
-    
+    print("This is the first change")
+    print("This is the second change")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
