@@ -10,6 +10,9 @@ This project uses python to observe the data for 3 different cities. New York, W
 ### First Change
 One of the benefits of this project is that it shows a real world application of what python can accomplish.
 
+### Second Change
+Another benefit of this project is that it enhances the user's understanding of loops and scripts. 
+
 
 ### Files used
 There are 4 files total
